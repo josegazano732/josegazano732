@@ -1,10 +1,16 @@
- 👋 Hi, I’m Jose Luis Gazano
-- 👀 Interesado en aprender y crecer  dia a dia. "Pequeños pasos"
-- 🌱 Desarrollador Web Full-Stack
+<h1 align="center">Hi 👋, I'm Jose Luis Gazano</h1>
+<h3 align="center">Un apasionado desarrollador Full-Stack</h3>
 
+- 🔭 I’m currently working on [App-Clinetes](https://github.com/josegazano732/SpringEdu-Proyecto)
 
+- 🌱 I’m currently learning **Angular / Spring Boot**
 
-<!---
-josegazano732/josegazano732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [https://github.com/josegazano732](https://github.com/josegazano732)
+
+- 📫 How to reach me **josegazano7@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-luis-gazano-897488213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-luis-gazano-897488213/" height="30" width="40" /></a>
+<a href="https://discord.gg/JLGazano#8524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JLGazano#8524" height="30" width="40" /></a>
+</p>
