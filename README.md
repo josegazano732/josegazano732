@@ -1,8 +1,8 @@
  👋 Hi, I’m Jose Luis Gazano
-- 👀 I’m interested in  aprender y crecer  dia a dia. "Pequeños pasos"
-- 🌱 I’m currently learning Desarrollo Web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interesado en aprender y crecer  dia a dia. "Pequeños pasos"
+- 🌱 Desarrollador Web Full-Stack
+
+
 
 <!---
 josegazano732/josegazano732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
