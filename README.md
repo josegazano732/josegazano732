@@ -11,6 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-luis-gazano-897488213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-luis-gazano-897488213/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joséluisgazano7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-luis-gazano-897488213/" height="30" width="40" /></a>
 <a href="https://discord.gg/JLGazano#8524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JLGazano#8524" height="30" width="40" /></a>
 </p>
