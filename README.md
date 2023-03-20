@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Mi nombre: Jose Luis Gazano</h1>
-<h3 align="center">Un apasionado desarrollador Full-Stack</h3>
+<h1 align="center">Jose Luis Gazano</h1>
+<h3 align="center">JLG</h3>
 
 - 🔭 I’m currently working on [App-Clientes](https://github.com/josegazano732/SpringEdu-Proyecto)
 
