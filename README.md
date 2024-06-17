@@ -3,7 +3,7 @@
 <h1 align="center">Jose Luis Gazano</h1>
 <h3 align="center">JLG</h3>
 
-## ⭐ - Introduction
+## ⭐ - Introduccion
 >¡Hola! Mi nombre es Jose Luis. Comencé en el campo de la programación a los 35 años con Javascript y SQL, lo largo de los años, he adquirido mucha experiencia y habilidades tanto en el desarrollo front-end como en el back-end, sorprendentemente sin tener una preferencia clara por ninguno de los dos: ¡disfruto de ambos!
 
 ---
