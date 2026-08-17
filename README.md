@@ -1,12 +1,25 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+![Profile banner](https://private-user-images.githubusercontent.com/46785377/636997108-ae48426d-8857-4b17-98fd-7cb53557ac19.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY5NzEzNDMsIm5iZiI6MTc4Njk3MTA0MywicGF0aCI6Ii80Njc4NTM3Ny82MzY5OTcxMDgtYWU0ODQyNmQtODg1Ny00YjE3LTk4ZmQtN2NiNTM1NTdhYzE5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE3VDEyNTA0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY5NzU3MTg4NzQ2ODI1MzFkY2UxMzVlMjIyOGEzM2RmOWQ1ZGMzNGUzMDRiY2EwMmUzODk1ZTZiYTkyZDQ3NWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.T-GTkEEF2q84Nv_xKj-vbSQ9cgPOH2R53Q27sqbjq5s)
 
 <h1 align="center">Jose Luis Gazano</h1>
 <h3 align="center">JLG</h3>
 
 ## ⭐ - Introduccion
->¡Hola! Mi nombre es Jose Luis. Comencé en el campo de la programación a los 35 años con Javascript y SQL, lo largo de los años, he adquirido mucha experiencia y habilidades tanto en el desarrollo front-end como en el back-end, sorprendentemente sin tener una preferencia clara por ninguno de los dos: ¡disfruto de ambos!
+¡Hola! Soy Jose Luis Gazano, desarrollador y gestor con una fuerte orientación hacia la tecnología, la automatización y la mejora continua.
 
 ---
+Me especializo en el desarrollo de sistemas internos, aplicaciones web y soluciones de comercio electrónico, combinando experiencia técnica con una visión orientada a procesos y necesidades reales del negocio.
+
+Trabajo tanto en Frontend como en Backend, utilizando tecnologías como JavaScript, TypeScript, Angular, Next.js, Node.js y NestJS, junto con bases de datos PostgreSQL, MySQL y SQLite. También trabajo con herramientas y servicios como Supabase, GitHub, Docker, APIs y plataformas de automatización.
+
+Mi enfoque no se limita únicamente a escribir código. Me interesa comprender el problema, analizar el proceso y diseñar soluciones que sean eficientes, mantenibles, escalables y fáciles de utilizar.
+
+La experiencia en gestión operativa y comercial me permite conectar el desarrollo tecnológico con el funcionamiento real de una organización: automatizar tareas, optimizar procesos, mejorar la gestión de información y transformar necesidades del negocio en soluciones digitales.
+
+Disfruto especialmente trabajar de forma integral, conectando Frontend, Backend, bases de datos, APIs y servicios externos para construir sistemas completos.
+
+Actualmente continúo explorando nuevas tecnologías, arquitecturas y herramientas que me permitan desarrollar soluciones cada vez más eficientes y aportar mayor valor a los proyectos en los que participo.
+
+🚀 Construir soluciones, aprender constantemente y transformar problemas reales en tecnología útil.
 
 ## 📟 - Lenguaje y Herramientas
 
